@@ -1,0 +1,11 @@
+{
+  "name": "Fitness Hub",
+  "short_name": "Fitness Hub",
+  "description": "مساحتك الشخصية لتنظيم التغذية والتمارين والقياسات",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#1b7954"
+}
